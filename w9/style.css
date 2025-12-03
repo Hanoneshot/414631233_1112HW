@@ -1,0 +1,27 @@
+@charset "utf-8";
+ul li a {
+}
+.container header {
+    background-color: #EF0E12;
+}
+.container header nav {
+    background-color: #EF0E12;
+}
+.container #hero {
+    background-image: url(images/pngtree-abstract-backgrouns-set-grunge-texture-minimalistic-art-brush-strokes-style-design-image_739359.jpg);
+}
+.container #about {
+    background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(219,113,115,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(219,113,115,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(219,113,115,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(219,113,115,1.00) 100%);
+}
+.container .banner {
+    background-image: url(images/pngtree-abstract-backgrouns-set-grunge-texture-minimalistic-art-brush-strokes-style-design-image_739359.jpg);
+}
+.container #contact {
+    background-image: url(images/pngtree-abstract-backgrouns-set-grunge-texture-minimalistic-art-brush-strokes-style-design-image_739359.jpg);
+}
+.container .copyright {
+    background-color: #FF0004;
+}
